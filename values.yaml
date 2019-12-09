@@ -1,2 +1,4 @@
 order:
   enabled: false
+order-generated:
+  enabled: false
